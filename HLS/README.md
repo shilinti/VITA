@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository contains the High-Level Synthesis (HLS) implementation for the VITA model, which accelerates Vision Transformer (ViT)-based Human Mesh Recovery tasks through hardware-algorithm co-design. The following steps and resources will guide you through setting up your environment, running Vitis AI models, and converting models using Vitis AI.
+This repository contains the High-Level Synthesis (HLS) implementation Instruction for the VITA model. The following steps and resources will guide you through setting up your environment, running Vitis AI models, and converting models using Vitis AI.
 
 ## Prerequisites
 

@@ -45,17 +45,17 @@ python experiments/run_hmr.py --config configs/vita_hmr.yaml
 
 ## Software/Hardware Co-Design
 
-## Software/Hardware Co-Design
+<strong>VITA Algorithm Overview</strong><br>
 
 <p align="center">
-  <strong>VITA Algorithm Overview</strong><br>
   <img src="./img/vita_algorithm.png" alt="VITA Algorithm Overview" title="VITA Algorithm Overview">
 </p>
 
-<hr>
+---
+
+<strong>VITA Architecture Overview</strong><br>
 
 <p align="center">
-  <strong>VITA Architecture Overview</strong><br>
   <img src="./img/vita_arch.png" alt="VITA Architecture Overview" title="VITA Architecture Overview">  
 </p>
 

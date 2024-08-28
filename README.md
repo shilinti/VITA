@@ -35,14 +35,6 @@ VITA introduces a hardware and algorithm co-design framework for accelerating Vi
 - CUDA Toolkit (for GPU acceleration)
 - Vitis-AI 3.0 (HLS)
 
-### Experiments
-
-To reproduce the results from the paper, run the following script:
-
-```bash
-python experiments/run_hmr.py --config configs/vita_hmr.yaml
-```
-
 ## Software/Hardware Co-Design
 
 <strong>VITA Algorithm Overview</strong><br>

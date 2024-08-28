@@ -53,7 +53,7 @@ python experiments/run_hmr.py --config configs/vita_hmr.yaml
 ## Visualizations
 
 <p align="center">
-  <img src="./img/vita_results">
+  <img src="./img/vita_results.png">
 </p>
 
 ## Citing

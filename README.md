@@ -46,8 +46,8 @@ python experiments/run_hmr.py --config configs/vita_hmr.yaml
 ## Software/Hardware Co-Design
 
 <p align="center">
-  <img src="./img/vita_algorithm.png" alt="VITA Algorithm Overview">
-  <img src="./img/vita_arch.png" alt="VITA Architecture Overview">  
+  <img src="./img/vita_algorithm.png" alt="VITA Algorithm Overview" title="VITA Algorithm Overview">
+  <img src="./img/vita_arch.png" alt="VITA Architecture Overview" title="VITA Architecture Overview">  
 </p>
 
 ## Visualizations
